@@ -1,0 +1,154 @@
+Unit level ,Unit name,Eligible ,Delivered appropriately ,Not delivered appropriately,No neonatal unit ,Non NICU
+0,OTHER,35,0,0,35,35
+1,Airedale General Hospital,2,0,2,0,2
+1,Bedford Hospital,2,0,2,0,2
+1,Conquest Hospital,2,0,2,0,2
+1,Cumberland Infirmary,2,0,2,0,2
+1,Darent Valley Hospital,6,0,6,0,6
+1,Darlington Memorial Hospital,1,0,1,0,1
+1,Dorset County Hospital,1,0,1,0,1
+1,Hinchingbrooke Hospital,2,0,2,0,2
+1,James Paget Hospital,2,0,2,0,2
+1,North Devon District Hospital,1,0,1,0,1
+1,Northumbria Specialist Emergency Care Hospital,2,0,2,0,2
+1,"Princess of Wales Hospital, Bridgend",1,0,1,0,1
+1,"Princess Royal Hospital, Haywards Heath",2,0,2,0,2
+1,"Queen's Hospital, Burton on Trent",6,0,6,0,6
+1,Royal Free Hospital,2,0,2,0,2
+1,Scarborough General Hospital,1,0,1,0,1
+1,University Hospital of North Durham,2,0,2,0,2
+1,University Hospital of North Tees,3,0,3,0,3
+1,Warwick Hospital,1,0,1,0,1
+1,West Middlesex University Hospital,4,0,4,0,4
+1,West Suffolk Hospital,1,0,1,0,1
+1,Worthing Hospital,2,0,2,0,2
+1,Yeovil District Hospital,3,0,3,0,3
+1,Ysbyty Gwynedd,2,0,2,0,2
+2,"Ayrshire Maternity Unit, Crosshouse",6,0,6,0,6
+2,Barnet Hospital,8,0,8,0,8
+2,Barnsley District General Hospital,1,0,1,0,1
+2,Basildon University Hospital,6,0,6,0,6
+2,Basingstoke & North Hampshire Hospital,3,0,3,0,3
+2,Birmingham City Hospital,15,0,15,0,15
+2,"Broomfield Hospital, Chelmsford",7,0,7,0,7
+2,Calderdale Royal Hospital,6,0,6,0,6
+2,Chesterfield Royal Hospital,3,0,3,0,3
+2,Colchester General Hospital,3,0,3,0,3
+2,Countess of Chester Hospital,2,0,2,0,2
+2,Croydon University Hospital,9,0,9,0,9
+2,Diana Princess of Wales Hospital,4,0,4,0,4
+2,Doncaster Royal Infirmary,8,0,8,0,8
+2,East Surrey Hospital,9,0,9,0,9
+2,Forth Valley Royal Hospital,2,0,2,0,2
+2,Frimley Park Hospital,2,0,2,0,2
+2,Glan Clwyd Hospital,7,0,7,0,7
+2,Gloucestershire Royal Hospital,8,0,8,0,8
+2,Great Western Hospital,3,0,3,0,3
+2,Hillingdon Hospital,5,0,5,0,5
+2,Ipswich Hospital,2,0,2,0,2
+2,Kettering General Hospital,7,0,7,0,7
+2,King's Mill Hospital,5,0,5,0,5
+2,Kingston Hospital,4,0,4,0,4
+2,Leighton Hospital,3,0,3,0,3
+2,Lincoln County Hospital,3,0,3,0,3
+2,Lister Hospital,3,0,3,0,3
+2,Manor Hospital,7,0,7,0,7
+2,Milton Keynes University Hospital,6,0,6,0,6
+2,Musgrove Park Hospital,1,0,1,0,1
+2,Newham University Hospital,8,0,8,0,8
+2,North Manchester General Hospital,3,0,3,0,3
+2,North Middlesex University Hospital,4,0,4,0,4
+2,Northampton General Hospital,4,0,4,0,4
+2,Northwick Park Hospital ,3,0,3,0,3
+2,Ormskirk District General Hospital,4,0,4,0,4
+2,Peterborough City Hospital,3,0,3,0,3
+2,Pinderfields General Infirmary (Pontefract),4,0,4,0,4
+2,Poole General Hospital,3,0,3,0,3
+2,Prince Charles Hospital,2,0,2,0,2
+2,Princess Alexandra Hospital,4,0,4,0,4
+2,"Princess Royal Hospital, Telford",4,0,4,0,4
+2,"Princess Royal University Hospital, Farnborough",3,0,3,0,3
+2,"Queen Elizabeth Hospital, King's Lynn",2,0,2,0,2
+2,"Queen Elizabeth Hospital, Woolwich ",6,0,6,0,6
+2,"Queen's Hospital, Romford",8,0,8,0,8
+2,"Raigmore Hospital, Inverness",1,0,1,0,1
+2,Rotherham District General Hospital,1,0,1,0,1
+2,Royal Albert Edward Infirmary,4,0,4,0,4
+2,"Royal Alexandra Hospital, Paisley",3,0,3,0,3
+2,Royal Berkshire Hospital,1,0,1,0,1
+2,Royal Cornwall Hospital,3,0,3,0,3
+2,Royal Derby Hospital,17,0,17,0,17
+2,Royal Devon & Exeter Hospital,2,0,2,0,2
+2,Royal Hampshire County Hospital,2,0,2,0,2
+2,Royal United Hospital,5,0,5,0,5
+2,Russell's Hall Hospital,4,0,4,0,4
+2,Scunthorpe General Hospital,4,0,4,0,4
+2,Southend Hospital,4,0,4,0,4
+2,St Helier Hospital,3,0,3,0,3
+2,"St Mary's Hospital, London",2,0,2,0,2
+2,Stepping Hill Hospital,2,0,2,0,2
+2,Tameside General Hospital,3,0,3,0,3
+2,Tunbridge Wells Hospital,4,0,4,0,4
+2,University Hospital Lewisham,1,0,1,0,1
+2,"Victoria Hospital, Blackpool",3,0,3,0,3
+2,Warrington Hospital,1,0,1,0,1
+2,Watford General Hospital,6,0,6,0,6
+2,Wexham Park Hospital,1,0,1,0,1
+2,Whipps Cross University Hospital,2,0,2,0,2
+2,Whiston Hospital,2,0,2,0,2
+2,Whittington Hospital,1,0,1,0,1
+2,Worcestershire Royal Hospital,4,0,4,0,4
+3,Aberdeen Maternity Hospital,16,16,0,0,0
+3,Arrowe Park Hospital,21,21,0,0,0
+3,Birmingham Heartlands Hospital,43,43,0,0,0
+3,Birmingham Women's Hospital,40,40,0,0,0
+3,Bradford Royal Infirmary,43,43,0,0,0
+3,Chelsea & Westminster Hospital,29,29,0,0,0
+3,Derriford Hospital,27,27,0,0,0
+3,Evelina London Children's Hospital,30,30,0,0,0
+3,Homerton University Hospital,46,46,0,0,0
+3,Hull Royal Infirmary,22,22,0,0,0
+3,"Jessop Wing, Sheffield",41,41,0,0,0
+3,John Radcliffe Hospital,50,50,0,0,0
+3,King's College Hospital,24,24,0,0,0
+3,"Lancashire Women and Newborn Centre, Burnley General Hospital",30,30,0,0,0
+3,Leeds Neonatal Service (Leeds General Infirmary and St James's Hospital),33,33,0,0,0
+3,Leicester Neonatal Service (Leicester Royal Infirmary and Leicester General Hospital),42,42,0,0,0
+3,Liverpool Women's Hospital,51,51,0,0,0
+3,Luton and Dunstable University Hospital,35,35,0,0,0
+3,Medway Maritime Hospital,21,21,0,0,0
+3,New Cross Hospital,30,30,0,0,0
+3,"Ninewells Hospital, Dundee",16,16,0,0,0
+3,Norfolk & Norwich University Hospital,33,33,0,0,0
+3,Nottingham City Hospital,21,21,0,0,0
+3,Nottingham University Hospital (QMC),14,14,0,0,0
+3,Princess Anne Hospital,30,30,0,0,0
+3,"Princess Royal Maternity Hospital, Glasgow",22,22,0,0,0
+3,Queen Alexandra Hospital,29,29,0,0,0
+3,Queen Charlotte and Chelsea Hospital,69,69,0,0,0
+3,"Rosie Maternity Hospital, Addenbrookes",40,40,0,0,0
+3,Royal Bolton Hospital,32,32,0,0,0
+3,"Royal Hospital for Children, Glasgow ",22,22,0,0,0
+3,Royal Oldham Hospital,22,22,0,0,0
+3,Royal Preston Hospital,16,16,0,0,0
+3,Royal Stoke University Hospital,22,22,0,0,0
+3,Royal Sussex County Hospital,19,19,0,0,0
+3,Royal Victoria Infirmary,33,33,0,0,0
+3,"Simpson Centre for Reproductive Health, Edinburgh",30,30,0,0,0
+3,Singleton Hospital,25,25,0,0,0
+3,Southmead Hospital,41,41,0,0,0
+3,St George's Hospital,38,38,0,0,0
+3,"St Mary's Hospital, Manchester",47,47,0,0,0
+3,St Michael's Hospital,24,24,0,0,0
+3,St Peter's Hospital,26,26,0,0,0
+3,Sunderland Royal Hospital,10,10,0,0,0
+3,The Grange University Hospital,15,15,0,0,0
+3,The James Cook University Hospital,30,30,0,0,0
+3,The Royal London Hospital,43,43,0,0,0
+3,University College London Hospital,30,30,0,0,0
+3,University Hospital Coventry,31,31,0,0,0
+3,University Hospital of Wales,12,12,0,0,0
+3,"Victoria Hospital, Kirkcaldy",1,1,0,0,0
+3,William Harvey Hospital,18,18,0,0,0
+3,Wishaw General Hospital,16,16,0,0,0
+TOTAL,TOTAL,1948,1551,362,35,397

@@ -1,0 +1,179 @@
+Unit level,Unit name,Eligible,With outcome,Proportion of DCC,Missing,Before Birth,Unknown,Less Than 1 Minute,Up To 2 Minutes,More Than 2 Minutes
+0,OTHER,47,31,21 (67.7%),16 (34%),0,15,10,16,5
+1,Airedale General Hospital,32,29,19 (65.5%),3 (9.4%),0,3,10,18,1
+1,Bassetlaw District General Hospital,16,16,11 (68.8%),0 (0%),0,0,5,11,0
+1,Bedford Hospital,41,41,20 (48.8%),0 (0%),0,0,21,19,1
+1,"Borders General Hospital, Melrose",8,8,6 (75%),0 (0%),0,0,2,6,0
+1,Conquest Hospital,45,44,19 (43.2%),1 (2.2%),0,0,25,16,3
+1,Cumberland Infirmary,21,15,2 (13.3%),6 (28.6%),0,3,13,2,0
+1,Darent Valley Hospital,85,75,43 (57.3%),10 (11.8%),0,3,32,43,0
+1,Darlington Memorial Hospital,23,20,8 (40%),3 (13%),0,0,12,7,1
+1,Dorset County Hospital,16,16,12 (75%),0 (0%),0,0,4,11,1
+1,Dumfries & Galloway Royal Infirmary,20,15,9 (60%),5 (25%),0,4,6,7,2
+1,Epsom General Hospital,6,6,0 (0%),0 (0%),0,0,6,0,0
+1,Furness General Hospital,17,15,9 (60%),2 (11.8%),0,0,6,7,2
+1,George Eliot Hospital,19,17,6 (35.3%),2 (10.5%),0,2,11,4,2
+1,Glangwili General Hospital,22,22,13 (59.1%),0 (0%),0,0,9,13,0
+1,Good Hope Hospital,31,29,21 (72.4%),2 (6.5%),0,0,8,17,4
+1,Harrogate District Hospital,16,15,11 (73.3%),1 (6.3%),0,0,4,10,1
+1,Hereford County Hospital,25,24,18 (75%),1 (4%),0,1,6,17,1
+1,Hinchingbrooke Hospital,18,17,8 (47.1%),1 (5.6%),0,1,9,8,0
+1,James Paget Hospital,35,35,24 (68.6%),0 (0%),0,0,11,23,1
+1,North Devon District Hospital,14,14,11 (78.6%),0 (0%),0,0,3,11,0
+1,Northumbria Specialist Emergency Care Hospital,33,33,29 (87.9%),0 (0%),0,0,4,27,2
+1,Pilgrim General Hospital,28,27,17 (63%),1 (3.6%),0,1,10,15,2
+1,"Princess of Wales Hospital, Bridgend",34,31,18 (58.1%),3 (8.8%),0,1,13,17,1
+1,"Princess Royal Hospital, Haywards Heath",5,5,3 (60%),0 (0%),0,0,2,3,0
+1,"Queen Elizabeth Hospital, Gateshead",19,18,12 (66.7%),1 (5.3%),0,0,6,10,2
+1,Queen Elizabeth The Queen Mother Hospital,29,29,16 (55.2%),0 (0%),0,0,13,16,0
+1,"Queen's Hospital, Burton on Trent",49,49,33 (67.3%),0 (0%),0,0,16,31,2
+1,Royal Free Hospital,12,12,4 (33.3%),0 (0%),0,0,8,4,0
+1,Royal Surrey County Hospital,30,30,25 (83.3%),0 (0%),0,0,5,11,14
+1,Scarborough General Hospital,33,31,21 (67.7%),2 (6.1%),0,2,10,19,2
+1,"St John's Hospital, Livingston",26,24,20 (83.3%),2 (7.7%),0,0,4,20,0
+1,"St Mary's Hospital, Isle of Wight",8,8,4 (50%),0 (0%),0,0,4,3,1
+1,Torbay Hospital,18,18,14 (77.8%),0 (0%),0,0,4,13,1
+1,University Hospital of North Durham,37,28,22 (78.6%),9 (24.3%),0,0,6,21,1
+1,University Hospital of North Tees,39,36,24 (66.7%),3 (7.7%),0,3,12,24,0
+1,Warwick Hospital,22,22,16 (72.7%),0 (0%),0,0,6,12,4
+1,West Cumberland Hospital,9,9,3 (33.3%),0 (0%),0,0,6,3,0
+1,West Middlesex University Hospital,61,56,31 (55.4%),5 (8.2%),0,2,25,30,1
+1,West Suffolk Hospital,26,26,22 (84.6%),0 (0%),0,0,4,20,2
+1,Worthing Hospital,29,28,16 (57.1%),1 (3.4%),0,0,12,12,4
+1,Wrexham Maelor Hospital,34,32,27 (84.4%),2 (5.9%),0,2,5,27,0
+1,Yeovil District Hospital,24,24,15 (62.5%),0 (0%),0,0,9,12,3
+1,Ysbyty Gwynedd,20,16,9 (56.3%),4 (20%),0,3,7,8,1
+2,"Ayrshire Maternity Unit, Crosshouse",65,65,42 (64.6%),0 (0%),0,0,23,40,2
+2,Barnet Hospital,115,112,71 (63.4%),3 (2.6%),0,2,41,70,1
+2,Barnsley District General Hospital,71,71,43 (60.6%),0 (0%),0,0,28,40,3
+2,Basildon University Hospital,58,58,41 (70.7%),0 (0%),0,0,17,41,0
+2,Basingstoke & North Hampshire Hospital,45,45,34 (75.6%),0 (0%),0,0,11,32,2
+2,Birmingham City Hospital,101,100,56 (56%),1 (1%),0,1,44,54,2
+2,"Broomfield Hospital, Chelmsford",73,73,52 (71.2%),0 (0%),0,0,21,48,4
+2,Calderdale Royal Hospital,72,72,58 (80.6%),0 (0%),0,0,14,55,3
+2,Chesterfield Royal Hospital,37,37,27 (73%),0 (0%),0,0,10,26,1
+2,Colchester General Hospital,48,48,37 (77.1%),0 (0%),0,0,11,35,2
+2,Countess of Chester Hospital,34,34,20 (58.8%),0 (0%),0,0,14,20,0
+2,Croydon University Hospital,68,68,41 (60.3%),0 (0%),0,0,27,41,0
+2,Diana Princess of Wales Hospital,60,60,53 (88.3%),0 (0%),0,0,7,53,0
+2,Doncaster Royal Infirmary,82,82,47 (57.3%),0 (0%),0,0,35,46,1
+2,East Surrey Hospital,75,74,41 (55.4%),1 (1.3%),0,1,33,40,1
+2,Forth Valley Royal Hospital,45,45,36 (80%),0 (0%),0,0,9,30,6
+2,Frimley Park Hospital,60,60,44 (73.3%),0 (0%),0,0,16,37,7
+2,Glan Clwyd Hospital,69,68,47 (69.1%),1 (1.4%),0,1,21,47,0
+2,Gloucestershire Royal Hospital,118,111,81 (73%),7 (5.9%),0,1,30,79,2
+2,Great Western Hospital,82,82,75 (91.5%),0 (0%),0,0,7,75,0
+2,Hillingdon Hospital,70,70,48 (68.6%),0 (0%),0,0,22,47,1
+2,Ipswich Hospital,57,57,47 (82.5%),0 (0%),0,0,10,47,0
+2,Kettering General Hospital,75,73,49 (67.1%),2 (2.7%),0,0,24,48,1
+2,King's Mill Hospital,68,67,38 (56.7%),1 (1.5%),0,0,29,29,9
+2,Kingston Hospital,51,51,30 (58.8%),0 (0%),0,0,21,30,0
+2,Leighton Hospital,45,45,29 (64.4%),0 (0%),0,0,16,28,1
+2,Lincoln County Hospital,64,63,51 (81%),1 (1.6%),0,0,12,49,2
+2,Lister Hospital,92,92,65 (70.7%),0 (0%),0,0,27,62,3
+2,Manor Hospital,64,64,33 (51.6%),0 (0%),0,0,31,30,3
+2,Milton Keynes University Hospital,69,68,48 (70.6%),1 (1.4%),0,1,20,45,3
+2,Musgrove Park Hospital,57,56,42 (75%),1 (1.8%),0,1,14,34,8
+2,Newham University Hospital,98,86,42 (48.8%),12 (12.2%),0,4,44,40,2
+2,Noble's Hospital,5,5,1 (20%),0 (0%),0,0,4,1,0
+2,North Manchester General Hospital,43,43,30 (69.8%),0 (0%),0,0,13,27,3
+2,North Middlesex University Hospital,79,79,54 (68.4%),0 (0%),0,0,25,54,0
+2,Northampton General Hospital,68,68,48 (70.6%),0 (0%),0,0,20,45,3
+2,Northwick Park Hospital ,54,54,33 (61.1%),0 (0%),0,0,21,33,0
+2,Ormskirk District General Hospital,35,34,25 (73.5%),1 (2.9%),0,1,9,21,4
+2,Peterborough City Hospital,82,82,62 (75.6%),0 (0%),0,0,20,58,4
+2,Pinderfields General Infirmary (Pontefract),112,112,83 (74.1%),0 (0%),0,0,29,81,2
+2,Poole General Hospital,56,56,32 (57.1%),0 (0%),0,0,24,31,1
+2,Prince Charles Hospital,30,29,20 (69%),1 (3.3%),0,1,9,20,0
+2,Princess Alexandra Hospital,75,75,47 (62.7%),0 (0%),0,0,28,44,3
+2,"Princess Royal Hospital, Telford",78,76,44 (57.9%),2 (2.6%),0,2,32,41,3
+2,"Princess Royal University Hospital, Farnborough",36,34,20 (58.8%),2 (5.6%),0,0,14,20,0
+2,"Queen Elizabeth Hospital, King's Lynn",37,37,20 (54.1%),0 (0%),0,0,17,16,4
+2,"Queen Elizabeth Hospital, Woolwich ",54,54,36 (66.7%),0 (0%),0,0,18,36,0
+2,"Queen's Hospital, Romford",110,110,72 (65.5%),0 (0%),0,0,38,72,0
+2,"Raigmore Hospital, Inverness",36,36,27 (75%),0 (0%),0,0,9,24,3
+2,Rotherham District General Hospital,37,37,27 (73%),0 (0%),0,0,10,23,4
+2,Royal Albert Edward Infirmary,48,48,32 (66.7%),0 (0%),0,0,16,31,1
+2,"Royal Alexandra Hospital, Paisley",47,47,31 (66%),0 (0%),0,0,16,27,4
+2,Royal Berkshire Hospital,65,65,45 (69.2%),0 (0%),0,0,20,45,0
+2,Royal Cornwall Hospital,39,39,33 (84.6%),0 (0%),0,0,6,24,9
+2,Royal Derby Hospital,157,140,90 (64.3%),17 (10.8%),0,7,50,88,2
+2,Royal Devon & Exeter Hospital,63,63,62 (98.4%),0 (0%),0,0,1,57,5
+2,Royal Hampshire County Hospital,28,28,21 (75%),0 (0%),0,0,7,20,1
+2,Royal Lancaster Infirmary,33,33,19 (57.6%),0 (0%),0,0,14,18,1
+2,Royal United Hospital,71,71,61 (85.9%),0 (0%),0,0,10,57,4
+2,Russell's Hall Hospital,97,96,63 (65.6%),1 (1%),0,0,33,61,2
+2,Salisbury District Hospital,25,23,19 (82.6%),2 (8%),0,1,4,19,0
+2,Scunthorpe General Hospital,46,46,35 (76.1%),0 (0%),0,0,11,33,2
+2,Southend Hospital,38,38,30 (78.9%),0 (0%),0,0,8,29,1
+2,St Helier Hospital,48,48,27 (56.3%),0 (0%),0,0,21,19,8
+2,"St Mary's Hospital, London",123,123,79 (64.2%),0 (0%),0,0,44,77,2
+2,St Richard's Hospital,18,18,9 (50%),0 (0%),0,0,9,9,0
+2,Stepping Hill Hospital,51,51,36 (70.6%),0 (0%),0,0,15,35,1
+2,Stoke Mandeville Hospital,62,58,41 (70.7%),4 (6.5%),0,1,17,40,1
+2,Tameside General Hospital,48,48,29 (60.4%),0 (0%),0,0,19,27,2
+2,Tunbridge Wells Hospital,101,101,52 (51.5%),0 (0%),0,0,49,52,0
+2,University Hospital Lewisham,63,63,43 (68.3%),0 (0%),0,0,20,42,1
+2,"Victoria Hospital, Blackpool",57,57,43 (75.4%),0 (0%),0,0,14,37,6
+2,Warrington Hospital,53,53,33 (62.3%),0 (0%),0,0,20,31,2
+2,Watford General Hospital,64,64,46 (71.9%),0 (0%),0,0,18,42,4
+2,Wexham Park Hospital,64,64,48 (75%),0 (0%),0,0,16,48,0
+2,Whipps Cross University Hospital,56,56,38 (67.9%),0 (0%),0,0,18,38,0
+2,Whiston Hospital,61,60,50 (83.3%),1 (1.6%),0,0,10,48,2
+2,Whittington Hospital,63,63,37 (58.7%),0 (0%),0,0,26,37,0
+2,Worcestershire Royal Hospital,83,83,45 (54.2%),0 (0%),0,0,38,44,1
+2,Wythenshawe Hospital,87,87,68 (78.2%),0 (0%),0,0,19,63,5
+2,York District Hospital,68,68,51 (75%),0 (0%),0,0,17,46,5
+3,Aberdeen Maternity Hospital,88,87,49 (56.3%),1 (1.1%),0,0,38,44,5
+3,Arrowe Park Hospital,89,89,73 (82%),0 (0%),0,0,16,73,0
+3,Birmingham Heartlands Hospital,171,164,130 (79.3%),7 (4.1%),4,0,34,127,3
+3,Birmingham Women's Hospital,217,216,137 (63.4%),1 (.5%),0,1,79,131,6
+3,Bradford Royal Infirmary,142,140,114 (81.4%),2 (1.4%),0,2,26,114,0
+3,Chelsea & Westminster Hospital,126,125,73 (58.4%),1 (.8%),0,1,52,72,1
+3,Derriford Hospital,84,80,52 (65%),4 (4.8%),0,4,28,51,1
+3,Evelina London Children's Hospital,176,176,132 (75%),0 (0%),0,0,44,130,2
+3,Homerton University Hospital,141,141,95 (67.4%),0 (0%),0,0,46,94,1
+3,Hull Royal Infirmary,113,113,88 (77.9%),0 (0%),0,0,25,71,17
+3,"Jessop Wing, Sheffield",159,159,107 (67.3%),0 (0%),0,0,52,105,2
+3,John Radcliffe Hospital,177,173,136 (78.6%),4 (2.3%),0,3,37,127,9
+3,King's College Hospital,112,110,62 (56.4%),2 (1.8%),0,2,48,61,1
+3,"Lancashire Women and Newborn Centre, Burnley General Hospital",141,141,125 (88.7%),0 (0%),0,0,16,123,2
+3,Leeds Neonatal Service (Leeds General Infirmary and St James's Hospital),183,182,132 (72.5%),1 (.5%),0,0,50,122,10
+3,Leicester Neonatal Service (Leicester Royal Infirmary and Leicester General Hospital),243,243,151 (62.1%),0 (0%),0,0,92,147,4
+3,Liverpool Women's Hospital,224,224,157 (70.1%),0 (0%),0,0,67,146,11
+3,Luton and Dunstable University Hospital,141,139,102 (73.4%),2 (1.4%),0,1,37,100,2
+3,Medway Maritime Hospital,123,123,86 (69.9%),0 (0%),0,0,37,86,0
+3,New Cross Hospital,161,155,112 (72.3%),6 (3.7%),1,1,43,103,9
+3,"Ninewells Hospital, Dundee",113,110,65 (59.1%),3 (2.7%),1,0,45,60,5
+3,Norfolk & Norwich University Hospital,127,127,83 (65.4%),0 (0%),0,0,44,78,5
+3,Nottingham City Hospital,96,93,51 (54.8%),3 (3.1%),0,3,42,45,6
+3,Nottingham University Hospital (QMC),96,92,40 (43.5%),4 (4.2%),1,2,52,38,2
+3,Princess Anne Hospital,151,151,91 (60.3%),0 (0%),0,0,60,91,0
+3,"Princess Royal Maternity Hospital, Glasgow",118,118,108 (91.5%),0 (0%),0,0,10,106,2
+3,Queen Alexandra Hospital,160,160,55 (34.4%),0 (0%),0,0,105,55,0
+3,Queen Charlotte and Chelsea Hospital,155,155,101 (65.2%),0 (0%),0,0,54,101,0
+3,"Rosie Maternity Hospital, Addenbrookes",149,148,100 (67.6%),1 (.7%),0,1,48,96,4
+3,Royal Bolton Hospital,130,130,103 (79.2%),0 (0%),0,0,27,100,3
+3,"Royal Hospital for Children, Glasgow ",147,147,100 (68%),0 (0%),0,0,47,91,9
+3,Royal Oldham Hospital,119,119,92 (77.3%),0 (0%),0,0,27,90,2
+3,Royal Preston Hospital,97,97,70 (72.2%),0 (0%),0,0,27,61,9
+3,Royal Stoke University Hospital,126,125,78 (62.4%),1 (.8%),0,0,47,69,9
+3,Royal Sussex County Hospital,101,101,67 (66.3%),0 (0%),0,0,34,66,1
+3,Royal Victoria Infirmary,178,178,134 (75.3%),0 (0%),0,0,44,132,2
+3,"Simpson Centre for Reproductive Health, Edinburgh",175,174,138 (79.3%),1 (.6%),0,1,36,135,3
+3,Singleton Hospital,102,102,73 (71.6%),0 (0%),0,0,29,72,1
+3,Southmead Hospital,137,137,102 (74.5%),0 (0%),0,0,35,98,4
+3,St George's Hospital,155,155,105 (67.7%),0 (0%),0,0,50,103,2
+3,"St Mary's Hospital, Manchester",240,240,167 (69.6%),0 (0%),0,0,73,162,5
+3,St Michael's Hospital,88,85,53 (62.4%),3 (3.4%),0,3,32,50,3
+3,St Peter's Hospital,99,99,87 (87.9%),0 (0%),0,0,12,23,64
+3,Sunderland Royal Hospital,83,83,65 (78.3%),0 (0%),0,0,18,62,3
+3,The Grange University Hospital,118,115,72 (62.6%),3 (2.5%),0,3,43,72,0
+3,The James Cook University Hospital,126,125,71 (56.8%),1 (.8%),0,1,54,70,1
+3,The Royal London Hospital,148,145,88 (60.7%),3 (2%),0,2,57,88,0
+3,University Hospital Coventry,209,209,158 (75.6%),0 (0%),0,0,51,150,8
+3,University Hospital of Wales,100,98,72 (73.5%),2 (2%),0,0,26,71,1
+3,"Victoria Hospital, Kirkcaldy",51,51,38 (74.5%),0 (0%),0,0,13,37,1
+3,William Harvey Hospital,99,99,68 (68.7%),0 (0%),0,0,31,63,5
+3,Wishaw General Hospital,103,103,66 (64.1%),0 (0%),0,0,37,65,1
+TOTAL,TOTAL,13431,13227,9031 (68.3%),204 (1.5%),7,102,4196,8540,491

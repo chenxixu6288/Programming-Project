@@ -1,0 +1,541 @@
+Unit level,Unit name,Admissions,Babies in units,Unique Growth,Unique pathogen,Gestation in Weeks,Unit infection %
+1,Airedale General Hospital,170,162,0,0,.,0
+1,Airedale General Hospital,20,20,0,0,22,0
+1,Airedale General Hospital,150,142,0,0,32,0
+1,Bassetlaw District General Hospital,81,79,0,0,.,0
+1,Bassetlaw District General Hospital,12,12,0,0,22,0
+1,Bassetlaw District General Hospital,69,67,0,0,32,0
+1,Bedford Hospital,219,185,0,0,.,0
+1,Bedford Hospital,27,23,0,0,22,0
+1,Bedford Hospital,192,162,0,0,32,0
+1,"Borders General Hospital, Melrose",64,62,0,0,.,0
+1,"Borders General Hospital, Melrose",15,14,0,0,22,0
+1,"Borders General Hospital, Melrose",49,48,0,0,32,0
+1,Conquest Hospital,205,197,0,0,.,0
+1,Conquest Hospital,34,32,0,0,22,0
+1,Conquest Hospital,171,165,0,0,32,0
+1,Cumberland Infirmary,91,85,2,0,.,0
+1,Cumberland Infirmary,15,11,1,0,22,0
+1,Cumberland Infirmary,76,74,1,0,32,0
+1,Darent Valley Hospital,372,357,0,0,.,0
+1,Darent Valley Hospital,62,53,0,0,22,0
+1,Darent Valley Hospital,310,304,0,0,32,0
+1,Darlington Memorial Hospital,79,77,0,0,.,0
+1,Darlington Memorial Hospital,16,15,0,0,22,0
+1,Darlington Memorial Hospital,63,62,0,0,32,0
+1,Dorset County Hospital,115,109,1,0,.,0
+1,Dorset County Hospital,21,19,0,0,22,0
+1,Dorset County Hospital,94,90,1,0,32,0
+1,Dumfries & Galloway Royal Infirmary,112,103,0,0,.,0
+1,Dumfries & Galloway Royal Infirmary,12,10,0,0,22,0
+1,Dumfries & Galloway Royal Infirmary,100,93,0,0,32,0
+1,Epsom General Hospital,72,67,0,0,.,0
+1,Epsom General Hospital,3,3,0,0,22,0
+1,Epsom General Hospital,69,64,0,0,32,0
+1,Furness General Hospital,54,52,0,0,.,0
+1,Furness General Hospital,11,11,0,0,22,0
+1,Furness General Hospital,43,41,0,0,32,0
+1,George Eliot Hospital,190,183,0,0,.,0
+1,George Eliot Hospital,24,20,0,0,22,0
+1,George Eliot Hospital,166,163,0,0,32,0
+1,Glangwili General Hospital,171,169,2,0,.,0
+1,Glangwili General Hospital,30,29,0,0,22,0
+1,Glangwili General Hospital,141,140,2,0,32,0
+1,Good Hope Hospital,237,232,1,0,.,0
+1,Good Hope Hospital,31,31,1,0,22,0
+1,Good Hope Hospital,206,201,0,0,32,0
+1,Harrogate District Hospital,98,93,0,0,.,0
+1,Harrogate District Hospital,15,14,0,0,22,0
+1,Harrogate District Hospital,83,79,0,0,32,0
+1,Hereford County Hospital,159,155,0,0,.,0
+1,Hereford County Hospital,20,19,0,0,22,0
+1,Hereford County Hospital,139,136,0,0,32,0
+1,Hinchingbrooke Hospital,132,128,0,0,.,0
+1,Hinchingbrooke Hospital,12,11,0,0,22,0
+1,Hinchingbrooke Hospital,120,117,0,0,32,0
+1,James Paget Hospital,155,140,3,0,.,0
+1,James Paget Hospital,32,26,2,0,22,0
+1,James Paget Hospital,123,114,1,0,32,0
+1,Macclesfield District General Hospital,20,20,0,0,.,0
+1,Macclesfield District General Hospital,2,2,0,0,22,0
+1,Macclesfield District General Hospital,18,18,0,0,32,0
+1,North Devon District Hospital,93,91,1,1,.,1.1
+1,North Devon District Hospital,12,10,1,1,22,10
+1,North Devon District Hospital,81,81,0,0,32,0
+1,Northumbria Specialist Emergency Care Hospital,158,153,1,1,.,0.7
+1,Northumbria Specialist Emergency Care Hospital,32,32,0,0,22,0
+1,Northumbria Specialist Emergency Care Hospital,126,121,1,1,32,0.8
+1,Pilgrim General Hospital,138,138,0,0,.,0
+1,Pilgrim General Hospital,20,20,0,0,22,0
+1,Pilgrim General Hospital,118,118,0,0,32,0
+1,"Princess Royal Hospital, Haywards Heath",148,131,0,0,.,0
+1,"Princess Royal Hospital, Haywards Heath",17,15,0,0,22,0
+1,"Princess Royal Hospital, Haywards Heath",131,116,0,0,32,0
+1,"Princess of Wales Hospital, Bridgend",148,139,1,0,.,0
+1,"Princess of Wales Hospital, Bridgend",31,26,1,0,22,0
+1,"Princess of Wales Hospital, Bridgend",117,113,0,0,32,0
+1,"Queen Elizabeth Hospital, Gateshead",155,142,2,0,.,0
+1,"Queen Elizabeth Hospital, Gateshead",28,26,2,0,22,0
+1,"Queen Elizabeth Hospital, Gateshead",127,116,0,0,32,0
+1,Queen Elizabeth The Queen Mother Hospital,181,177,0,0,.,0
+1,Queen Elizabeth The Queen Mother Hospital,25,24,0,0,22,0
+1,Queen Elizabeth The Queen Mother Hospital,156,153,0,0,32,0
+1,"Queen's Hospital, Burton on Trent",157,154,1,0,.,0
+1,"Queen's Hospital, Burton on Trent",45,44,0,0,22,0
+1,"Queen's Hospital, Burton on Trent",112,110,1,0,32,0
+1,Royal Free Hospital,200,196,0,0,.,0
+1,Royal Free Hospital,16,16,0,0,22,0
+1,Royal Free Hospital,184,180,0,0,32,0
+1,Royal Surrey County Hospital,170,157,1,0,.,0
+1,Royal Surrey County Hospital,15,14,0,0,22,0
+1,Royal Surrey County Hospital,155,143,1,0,32,0
+1,Scarborough General Hospital,96,87,0,0,.,0
+1,Scarborough General Hospital,16,14,0,0,22,0
+1,Scarborough General Hospital,80,73,0,0,32,0
+1,"St John's Hospital, Livingston",117,113,1,1,.,0.9
+1,"St John's Hospital, Livingston",14,13,0,0,22,0
+1,"St John's Hospital, Livingston",103,100,1,1,32,1
+1,"St Mary's Hospital, Isle of Wight",69,63,0,0,.,0
+1,"St Mary's Hospital, Isle of Wight",7,7,0,0,22,0
+1,"St Mary's Hospital, Isle of Wight",62,56,0,0,32,0
+1,Torbay Hospital,166,164,2,0,.,0
+1,Torbay Hospital,12,12,1,0,22,0
+1,Torbay Hospital,154,152,1,0,32,0
+1,University Hospital of North Durham,124,120,0,0,.,0
+1,University Hospital of North Durham,19,16,0,0,22,0
+1,University Hospital of North Durham,105,104,0,0,32,0
+1,University Hospital of North Tees,169,166,0,0,.,0
+1,University Hospital of North Tees,27,25,0,0,22,0
+1,University Hospital of North Tees,142,141,0,0,32,0
+1,Warwick Hospital,201,197,2,1,.,0.5
+1,Warwick Hospital,18,18,1,0,22,0
+1,Warwick Hospital,183,179,1,1,32,0.6
+1,West Cumberland Hospital,69,67,0,0,.,0
+1,West Cumberland Hospital,12,10,0,0,22,0
+1,West Cumberland Hospital,57,57,0,0,32,0
+1,West Middlesex University Hospital,321,304,1,1,.,0.3
+1,West Middlesex University Hospital,60,52,1,1,22,1.9
+1,West Middlesex University Hospital,261,252,0,0,32,0
+1,West Suffolk Hospital,205,187,0,0,.,0
+1,West Suffolk Hospital,28,23,0,0,22,0
+1,West Suffolk Hospital,177,164,0,0,32,0
+1,Worthing Hospital,143,140,0,0,.,0
+1,Worthing Hospital,20,17,0,0,22,0
+1,Worthing Hospital,123,123,0,0,32,0
+1,Wrexham Maelor Hospital,140,137,1,0,.,0
+1,Wrexham Maelor Hospital,29,29,1,0,22,0
+1,Wrexham Maelor Hospital,111,108,0,0,32,0
+1,Yeovil District Hospital,126,123,0,0,.,0
+1,Yeovil District Hospital,10,10,0,0,22,0
+1,Yeovil District Hospital,116,113,0,0,32,0
+1,Ysbyty Gwynedd,91,79,1,0,.,0
+1,Ysbyty Gwynedd,30,20,1,0,22,0
+1,Ysbyty Gwynedd,61,59,0,0,32,0
+2,"Ayrshire Maternity Unit, Crosshouse",246,232,3,1,.,0.4
+2,"Ayrshire Maternity Unit, Crosshouse",54,47,2,1,22,2.1
+2,"Ayrshire Maternity Unit, Crosshouse",192,185,1,0,32,0
+2,Barnet Hospital,469,444,16,5,.,1.1
+2,Barnet Hospital,65,56,10,2,22,3.6
+2,Barnet Hospital,404,388,6,3,32,0.8
+2,Barnsley District General Hospital,177,167,3,1,.,0.6
+2,Barnsley District General Hospital,58,52,2,1,22,1.9
+2,Barnsley District General Hospital,119,115,1,0,32,0
+2,Basildon University Hospital,315,301,11,1,.,0.3
+2,Basildon University Hospital,73,65,9,0,22,0
+2,Basildon University Hospital,242,236,2,1,32,0.4
+2,Basingstoke & North Hampshire Hospital,181,172,3,1,.,0.6
+2,Basingstoke & North Hampshire Hospital,40,35,1,0,22,0
+2,Basingstoke & North Hampshire Hospital,141,137,2,1,32,0.7
+2,Birmingham City Hospital,579,561,7,0,.,0
+2,Birmingham City Hospital,72,67,4,0,22,0
+2,Birmingham City Hospital,507,494,3,0,32,0
+2,"Broomfield Hospital, Chelmsford",359,348,0,0,.,0
+2,"Broomfield Hospital, Chelmsford",50,44,0,0,22,0
+2,"Broomfield Hospital, Chelmsford",309,304,0,0,32,0
+2,Calderdale Royal Hospital,270,261,3,0,.,0
+2,Calderdale Royal Hospital,64,58,2,0,22,0
+2,Calderdale Royal Hospital,206,203,1,0,32,0
+2,Chesterfield Royal Hospital,212,210,2,0,.,0
+2,Chesterfield Royal Hospital,28,28,1,0,22,0
+2,Chesterfield Royal Hospital,184,182,1,0,32,0
+2,Colchester General Hospital,271,266,1,0,.,0
+2,Colchester General Hospital,35,32,1,0,22,0
+2,Colchester General Hospital,236,234,0,0,32,0
+2,Countess of Chester Hospital,140,136,0,0,.,0
+2,Countess of Chester Hospital,16,12,0,0,22,0
+2,Countess of Chester Hospital,124,124,0,0,32,0
+2,Croydon University Hospital,297,248,1,1,.,0.4
+2,Croydon University Hospital,69,59,1,1,22,1.7
+2,Croydon University Hospital,228,189,0,0,32,0
+2,Diana Princess of Wales Hospital,200,196,8,1,.,0.5
+2,Diana Princess of Wales Hospital,36,32,7,1,22,3.1
+2,Diana Princess of Wales Hospital,164,164,1,0,32,0
+2,Doncaster Royal Infirmary,239,230,2,0,.,0
+2,Doncaster Royal Infirmary,66,63,1,0,22,0
+2,Doncaster Royal Infirmary,173,167,1,0,32,0
+2,East Surrey Hospital,326,319,4,0,.,0
+2,East Surrey Hospital,54,49,3,0,22,0
+2,East Surrey Hospital,272,270,1,0,32,0
+2,Forth Valley Royal Hospital,193,182,3,1,.,0.5
+2,Forth Valley Royal Hospital,44,37,3,1,22,2.7
+2,Forth Valley Royal Hospital,149,145,0,0,32,0
+2,Frimley Park Hospital,215,202,2,0,.,0
+2,Frimley Park Hospital,57,49,0,0,22,0
+2,Frimley Park Hospital,158,153,2,0,32,0
+2,Glan Clwyd Hospital,180,163,7,2,.,1.2
+2,Glan Clwyd Hospital,97,80,7,2,22,2.5
+2,Glan Clwyd Hospital,83,83,0,0,32,0
+2,Gloucestershire Royal Hospital,451,430,0,0,.,0
+2,Gloucestershire Royal Hospital,62,55,0,0,22,0
+2,Gloucestershire Royal Hospital,389,375,0,0,32,0
+2,Great Western Hospital,288,265,0,0,.,0
+2,Great Western Hospital,61,54,0,0,22,0
+2,Great Western Hospital,227,211,0,0,32,0
+2,Hillingdon Hospital,370,350,6,2,.,0.6
+2,Hillingdon Hospital,74,66,4,2,22,3
+2,Hillingdon Hospital,296,284,2,0,32,0
+2,Ipswich Hospital,355,339,2,0,.,0
+2,Ipswich Hospital,37,33,1,0,22,0
+2,Ipswich Hospital,318,306,1,0,32,0
+2,Kettering General Hospital,261,246,12,3,.,1.2
+2,Kettering General Hospital,61,53,11,2,22,3.8
+2,Kettering General Hospital,200,193,1,1,32,0.5
+2,King's Mill Hospital,221,209,1,1,.,0.5
+2,King's Mill Hospital,55,51,0,0,22,0
+2,King's Mill Hospital,166,158,1,1,32,0.6
+2,Kingston Hospital,274,263,3,2,.,0.8
+2,Kingston Hospital,43,38,3,2,22,5.3
+2,Kingston Hospital,231,225,0,0,32,0
+2,Leighton Hospital,164,154,5,0,.,0
+2,Leighton Hospital,39,30,3,0,22,0
+2,Leighton Hospital,125,124,2,0,32,0
+2,Lincoln County Hospital,236,224,4,2,.,0.9
+2,Lincoln County Hospital,65,57,3,1,22,1.8
+2,Lincoln County Hospital,171,167,1,1,32,0.6
+2,Lister Hospital,401,395,3,1,.,0.3
+2,Lister Hospital,55,52,0,0,22,0
+2,Lister Hospital,346,343,3,1,32,0.3
+2,Manor Hospital,291,284,2,0,.,0
+2,Manor Hospital,49,48,2,0,22,0
+2,Manor Hospital,242,236,0,0,32,0
+2,Milton Keynes University Hospital,250,240,5,2,.,0.8
+2,Milton Keynes University Hospital,43,37,3,2,22,5.4
+2,Milton Keynes University Hospital,207,203,2,0,32,0
+2,Musgrove Park Hospital,267,255,1,1,.,0.4
+2,Musgrove Park Hospital,48,41,1,1,22,2.4
+2,Musgrove Park Hospital,219,214,0,0,32,0
+2,Newham University Hospital,360,358,6,2,.,0.6
+2,Newham University Hospital,76,75,3,1,22,1.3
+2,Newham University Hospital,284,283,3,1,32,0.4
+2,Noble's Hospital,45,45,0,0,.,0
+2,Noble's Hospital,3,3,0,0,22,0
+2,Noble's Hospital,42,42,0,0,32,0
+2,North Manchester General Hospital,252,247,0,0,.,0
+2,North Manchester General Hospital,45,43,0,0,22,0
+2,North Manchester General Hospital,207,204,0,0,32,0
+2,North Middlesex University Hospital,405,354,3,1,.,0.3
+2,North Middlesex University Hospital,49,45,2,1,22,2.2
+2,North Middlesex University Hospital,356,309,1,0,32,0
+2,Northampton General Hospital,325,320,5,0,.,0
+2,Northampton General Hospital,56,53,4,0,22,0
+2,Northampton General Hospital,269,267,1,0,32,0
+2,Northwick Park Hospital ,278,265,1,0,.,0
+2,Northwick Park Hospital ,70,59,1,0,22,0
+2,Northwick Park Hospital ,208,206,0,0,32,0
+2,Ormskirk District General Hospital,141,136,2,0,.,0
+2,Ormskirk District General Hospital,25,23,0,0,22,0
+2,Ormskirk District General Hospital,116,113,2,0,32,0
+2,Peterborough City Hospital,266,258,0,0,.,0
+2,Peterborough City Hospital,60,58,0,0,22,0
+2,Peterborough City Hospital,206,200,0,0,32,0
+2,Pinderfields General Infirmary (Pontefract),349,340,8,1,.,0.3
+2,Pinderfields General Infirmary (Pontefract),88,81,8,1,22,1.2
+2,Pinderfields General Infirmary (Pontefract),261,259,0,0,32,0
+2,Poole General Hospital,288,262,4,1,.,0.4
+2,Poole General Hospital,59,50,4,1,22,2
+2,Poole General Hospital,229,212,0,0,32,0
+2,Prince Charles Hospital,234,227,4,2,.,0.9
+2,Prince Charles Hospital,37,34,2,1,22,2.9
+2,Prince Charles Hospital,197,193,2,1,32,0.5
+2,Princess Alexandra Hospital,328,308,2,0,.,0
+2,Princess Alexandra Hospital,58,51,2,0,22,0
+2,Princess Alexandra Hospital,270,257,0,0,32,0
+2,"Princess Royal Hospital, Telford",297,290,9,3,.,1
+2,"Princess Royal Hospital, Telford",54,49,8,3,22,6.1
+2,"Princess Royal Hospital, Telford",243,241,1,0,32,0
+2,"Princess Royal University Hospital, Farnborough",180,162,1,1,.,0.6
+2,"Princess Royal University Hospital, Farnborough",28,19,0,0,22,0
+2,"Princess Royal University Hospital, Farnborough",152,143,1,1,32,0.7
+2,"Queen Elizabeth Hospital, King's Lynn",163,158,3,0,.,0
+2,"Queen Elizabeth Hospital, King's Lynn",29,26,3,0,22,0
+2,"Queen Elizabeth Hospital, King's Lynn",134,132,0,0,32,0
+2,"Queen Elizabeth Hospital, Woolwich ",218,203,2,1,.,0.5
+2,"Queen Elizabeth Hospital, Woolwich ",40,33,1,0,22,0
+2,"Queen Elizabeth Hospital, Woolwich ",178,170,1,1,32,0.6
+2,"Queen's Hospital, Romford",490,455,3,0,.,0
+2,"Queen's Hospital, Romford",94,83,2,0,22,0
+2,"Queen's Hospital, Romford",396,372,1,0,32,0
+2,"Raigmore Hospital, Inverness",168,164,1,1,.,0.6
+2,"Raigmore Hospital, Inverness",28,26,1,1,22,3.8
+2,"Raigmore Hospital, Inverness",140,138,0,0,32,0
+2,Rotherham District General Hospital,184,181,1,0,.,0
+2,Rotherham District General Hospital,38,35,1,0,22,0
+2,Rotherham District General Hospital,146,146,0,0,32,0
+2,Royal Albert Edward Infirmary,204,201,1,0,.,0
+2,Royal Albert Edward Infirmary,35,32,1,0,22,0
+2,Royal Albert Edward Infirmary,169,169,0,0,32,0
+2,"Royal Alexandra Hospital, Paisley",259,246,5,3,.,1.2
+2,"Royal Alexandra Hospital, Paisley",27,24,3,2,22,8.3
+2,"Royal Alexandra Hospital, Paisley",232,222,2,1,32,0.5
+2,Royal Berkshire Hospital,294,283,6,2,.,0.7
+2,Royal Berkshire Hospital,49,42,6,2,22,4.8
+2,Royal Berkshire Hospital,245,241,0,0,32,0
+2,Royal Cornwall Hospital,279,260,7,2,.,0.8
+2,Royal Cornwall Hospital,41,36,5,1,22,2.8
+2,Royal Cornwall Hospital,238,224,2,1,32,0.4
+2,Royal Derby Hospital,334,319,7,0,.,0
+2,Royal Derby Hospital,124,115,7,0,22,0
+2,Royal Derby Hospital,210,204,0,0,32,0
+2,Royal Devon & Exeter Hospital,363,356,9,2,.,0.6
+2,Royal Devon & Exeter Hospital,57,51,8,2,22,3.9
+2,Royal Devon & Exeter Hospital,306,305,1,0,32,0
+2,Royal Hampshire County Hospital,160,153,2,0,.,0
+2,Royal Hampshire County Hospital,21,20,2,0,22,0
+2,Royal Hampshire County Hospital,139,133,0,0,32,0
+2,Royal Lancaster Infirmary,135,133,1,0,.,0
+2,Royal Lancaster Infirmary,26,26,1,0,22,0
+2,Royal Lancaster Infirmary,109,107,0,0,32,0
+2,Royal United Hospital,295,290,2,1,.,0.3
+2,Royal United Hospital,49,48,0,0,22,0
+2,Royal United Hospital,246,242,2,1,32,0.4
+2,Russell's Hall Hospital,319,310,12,2,.,0.6
+2,Russell's Hall Hospital,54,48,5,1,22,2.1
+2,Russell's Hall Hospital,265,262,7,1,32,0.4
+2,Salisbury District Hospital,182,174,0,0,.,0
+2,Salisbury District Hospital,29,24,0,0,22,0
+2,Salisbury District Hospital,153,150,0,0,32,0
+2,Scunthorpe General Hospital,156,152,4,2,.,1.3
+2,Scunthorpe General Hospital,42,39,4,2,22,5.1
+2,Scunthorpe General Hospital,114,113,0,0,32,0
+2,Southend Hospital,274,263,0,0,.,0
+2,Southend Hospital,43,39,0,0,22,0
+2,Southend Hospital,231,224,0,0,32,0
+2,St Helier Hospital,181,166,1,1,.,0.6
+2,St Helier Hospital,35,30,1,1,22,3.3
+2,St Helier Hospital,146,136,0,0,32,0
+2,"St Mary's Hospital, London",275,271,0,0,.,0
+2,"St Mary's Hospital, London",82,82,0,0,22,0
+2,"St Mary's Hospital, London",193,189,0,0,32,0
+2,St Richard's Hospital,152,147,2,1,.,0.7
+2,St Richard's Hospital,16,14,1,1,22,7.1
+2,St Richard's Hospital,136,133,1,0,32,0
+2,Stepping Hill Hospital,226,218,2,0,.,0
+2,Stepping Hill Hospital,39,34,2,0,22,0
+2,Stepping Hill Hospital,187,184,0,0,32,0
+2,Stoke Mandeville Hospital,220,207,6,2,.,1
+2,Stoke Mandeville Hospital,49,38,4,2,22,5.3
+2,Stoke Mandeville Hospital,171,169,2,0,32,0
+2,Tameside General Hospital,173,164,2,0,.,0
+2,Tameside General Hospital,36,33,0,0,22,0
+2,Tameside General Hospital,137,131,2,0,32,0
+2,Tunbridge Wells Hospital,304,291,4,1,.,0.3
+2,Tunbridge Wells Hospital,69,62,4,1,22,1.6
+2,Tunbridge Wells Hospital,235,229,0,0,32,0
+2,University Hospital Lewisham,197,186,3,1,.,0.5
+2,University Hospital Lewisham,56,50,3,1,22,2
+2,University Hospital Lewisham,141,136,0,0,32,0
+2,"Victoria Hospital, Blackpool",250,242,2,1,.,0.4
+2,"Victoria Hospital, Blackpool",35,31,2,1,22,3.2
+2,"Victoria Hospital, Blackpool",215,211,0,0,32,0
+2,Warrington Hospital,194,186,6,1,.,0.5
+2,Warrington Hospital,31,25,4,1,22,4
+2,Warrington Hospital,163,161,2,0,32,0
+2,Watford General Hospital,256,248,1,0,.,0
+2,Watford General Hospital,48,45,1,0,22,0
+2,Watford General Hospital,208,203,0,0,32,0
+2,Wexham Park Hospital,209,202,1,1,.,0.5
+2,Wexham Park Hospital,45,39,0,0,22,0
+2,Wexham Park Hospital,164,163,1,1,32,0.6
+2,Whipps Cross University Hospital,327,317,0,0,.,0
+2,Whipps Cross University Hospital,42,39,0,0,22,0
+2,Whipps Cross University Hospital,285,278,0,0,32,0
+2,Whiston Hospital,200,191,0,0,.,0
+2,Whiston Hospital,43,40,0,0,22,0
+2,Whiston Hospital,157,151,0,0,32,0
+2,Whittington Hospital,252,250,3,1,.,0.4
+2,Whittington Hospital,48,48,1,0,22,0
+2,Whittington Hospital,204,202,2,1,32,0.5
+2,Worcestershire Royal Hospital,288,269,4,0,.,0
+2,Worcestershire Royal Hospital,72,65,3,0,22,0
+2,Worcestershire Royal Hospital,216,204,1,0,32,0
+2,Wythenshawe Hospital,253,247,1,0,.,0
+2,Wythenshawe Hospital,54,51,1,0,22,0
+2,Wythenshawe Hospital,199,196,0,0,32,0
+2,York District Hospital,181,177,0,0,.,0
+2,York District Hospital,54,50,0,0,22,0
+2,York District Hospital,127,127,0,0,32,0
+3,Aberdeen Maternity Hospital,397,384,15,8,.,2.1
+3,Aberdeen Maternity Hospital,57,54,9,5,22,9.3
+3,Aberdeen Maternity Hospital,340,330,6,3,32,0.9
+3,Alder Hey Children's Hospital,199,171,9,2,.,1.2
+3,Alder Hey Children's Hospital,44,31,3,1,22,3.2
+3,Alder Hey Children's Hospital,155,140,6,1,32,0.7
+3,Arrowe Park Hospital,242,236,6,2,.,0.8
+3,Arrowe Park Hospital,75,71,5,2,22,2.8
+3,Arrowe Park Hospital,167,165,1,0,32,0
+3,Birmingham Heartlands Hospital,494,476,36,11,.,2.3
+3,Birmingham Heartlands Hospital,116,108,30,9,22,8.3
+3,Birmingham Heartlands Hospital,378,368,6,2,32,0.5
+3,Birmingham Women's Hospital,743,685,27,6,.,0.9
+3,Birmingham Women's Hospital,208,164,23,6,22,3.7
+3,Birmingham Women's Hospital,535,521,4,0,32,0
+3,Bradford Royal Infirmary,382,363,25,11,.,3
+3,Bradford Royal Infirmary,138,127,23,10,22,7.9
+3,Bradford Royal Infirmary,244,236,2,1,32,0.4
+3,Chelsea & Westminster Hospital,422,409,29,11,.,2.7
+3,Chelsea & Westminster Hospital,163,152,22,9,22,5.9
+3,Chelsea & Westminster Hospital,259,257,7,2,32,0.8
+3,Derriford Hospital,358,342,6,2,.,0.6
+3,Derriford Hospital,89,83,5,1,22,1.2
+3,Derriford Hospital,269,259,1,1,32,0.4
+3,Evelina London Children's Hospital,561,549,42,18,.,3.3
+3,Evelina London Children's Hospital,143,140,30,14,22,10
+3,Evelina London Children's Hospital,418,409,12,4,32,1
+3,Homerton University Hospital,680,645,47,11,.,1.7
+3,Homerton University Hospital,144,130,38,9,22,6.9
+3,Homerton University Hospital,536,515,9,2,32,0.4
+3,Hull Royal Infirmary,390,385,19,4,.,1
+3,Hull Royal Infirmary,110,106,18,4,22,3.8
+3,Hull Royal Infirmary,280,279,1,0,32,0
+3,"Jessop Wing, Sheffield",514,506,32,8,.,1.6
+3,"Jessop Wing, Sheffield",167,164,29,6,22,3.7
+3,"Jessop Wing, Sheffield",347,342,3,2,32,0.6
+3,John Radcliffe Hospital,564,532,39,12,.,2.3
+3,John Radcliffe Hospital,178,151,32,10,22,6.6
+3,John Radcliffe Hospital,386,381,7,2,32,0.5
+3,King's College Hospital,394,365,7,0,.,0
+3,King's College Hospital,109,94,5,0,22,0
+3,King's College Hospital,285,271,2,0,32,0
+3,"Lancashire Women and Newborn Centre, Burnley General Hospital",599,562,27,5,.,0.9
+3,"Lancashire Women and Newborn Centre, Burnley General Hospital",93,83,19,5,22,6
+3,"Lancashire Women and Newborn Centre, Burnley General Hospital",506,479,8,0,32,0
+3,Leeds Neonatal Service (Leeds General Infirmary and St James's Hospital),788,676,38,7,.,1
+3,Leeds Neonatal Service (Leeds General Infirmary and St James's Hospital),214,142,28,5,22,3.5
+3,Leeds Neonatal Service (Leeds General Infirmary and St James's Hospital),574,534,10,2,32,0.4
+3,Leicester Neonatal Service (Leicester Royal Infirmary and Leicester General Hospital),951,924,26,8,.,0.9
+3,Leicester Neonatal Service (Leicester Royal Infirmary and Leicester General Hospital),197,174,23,6,22,3.4
+3,Leicester Neonatal Service (Leicester Royal Infirmary and Leicester General Hospital),754,750,3,2,32,0.3
+3,Liverpool Women's Hospital,719,653,41,6,.,0.9
+3,Liverpool Women's Hospital,235,182,39,6,22,3.3
+3,Liverpool Women's Hospital,484,471,2,0,32,0
+3,Luton and Dunstable University Hospital,559,537,17,8,.,1.5
+3,Luton and Dunstable University Hospital,136,118,15,7,22,5.9
+3,Luton and Dunstable University Hospital,423,419,2,1,32,0.2
+3,Medway Maritime Hospital,538,507,13,4,.,0.8
+3,Medway Maritime Hospital,101,92,13,4,22,4.3
+3,Medway Maritime Hospital,437,415,0,0,32,0
+3,New Cross Hospital,508,492,26,8,.,1.6
+3,New Cross Hospital,132,121,22,6,22,5
+3,New Cross Hospital,376,371,4,2,32,0.5
+3,"Ninewells Hospital, Dundee",360,336,9,1,.,0.3
+3,"Ninewells Hospital, Dundee",69,62,8,1,22,1.6
+3,"Ninewells Hospital, Dundee",291,274,1,0,32,0
+3,Norfolk & Norwich University Hospital,469,456,22,6,.,1.3
+3,Norfolk & Norwich University Hospital,124,118,18,4,22,3.4
+3,Norfolk & Norwich University Hospital,345,338,4,2,32,0.6
+3,Nottingham City Hospital,249,231,17,6,.,2.6
+3,Nottingham City Hospital,118,102,17,6,22,5.9
+3,Nottingham City Hospital,131,129,0,0,32,0
+3,Nottingham University Hospital (QMC),283,262,27,12,.,4.6
+3,Nottingham University Hospital (QMC),113,97,18,5,22,5.2
+3,Nottingham University Hospital (QMC),170,165,9,7,32,4.2
+3,Princess Anne Hospital,634,599,20,8,.,1.3
+3,Princess Anne Hospital,159,137,16,7,22,5.1
+3,Princess Anne Hospital,475,462,4,1,32,0.2
+3,"Princess Royal Maternity Hospital, Glasgow",348,335,7,1,.,0.3
+3,"Princess Royal Maternity Hospital, Glasgow",90,83,6,1,22,1.2
+3,"Princess Royal Maternity Hospital, Glasgow",258,252,1,0,32,0
+3,Queen Alexandra Hospital,440,406,11,6,.,1.5
+3,Queen Alexandra Hospital,131,119,11,6,22,5
+3,Queen Alexandra Hospital,309,287,0,0,32,0
+3,Queen Charlotte and Chelsea Hospital,316,286,33,12,.,4.2
+3,Queen Charlotte and Chelsea Hospital,162,136,33,12,22,8.8
+3,Queen Charlotte and Chelsea Hospital,154,150,0,0,32,0
+3,"Rosie Maternity Hospital, Addenbrookes",640,619,5,3,.,0.5
+3,"Rosie Maternity Hospital, Addenbrookes",151,137,3,2,22,1.5
+3,"Rosie Maternity Hospital, Addenbrookes",489,482,2,1,32,0.2
+3,Royal Bolton Hospital,551,536,20,3,.,0.6
+3,Royal Bolton Hospital,107,96,18,3,22,3.1
+3,Royal Bolton Hospital,444,440,2,0,32,0
+3,"Royal Hospital for Children, Glasgow ",727,681,39,15,.,2.2
+3,"Royal Hospital for Children, Glasgow ",166,142,22,8,22,5.6
+3,"Royal Hospital for Children, Glasgow ",561,539,17,7,32,1.3
+3,Royal Oldham Hospital,440,423,6,1,.,0.2
+3,Royal Oldham Hospital,102,93,6,1,22,1.1
+3,Royal Oldham Hospital,338,330,0,0,32,0
+3,Royal Preston Hospital,313,306,9,3,.,1
+3,Royal Preston Hospital,69,64,6,1,22,1.6
+3,Royal Preston Hospital,244,242,3,2,32,0.8
+3,Royal Stoke University Hospital,457,444,35,8,.,1.8
+3,Royal Stoke University Hospital,90,80,30,6,22,7.5
+3,Royal Stoke University Hospital,367,364,5,2,32,0.5
+3,Royal Sussex County Hospital,425,379,19,9,.,2.4
+3,Royal Sussex County Hospital,105,93,16,7,22,7.5
+3,Royal Sussex County Hospital,320,286,3,2,32,0.7
+3,Royal Victoria Infirmary,592,550,19,10,.,1.8
+3,Royal Victoria Infirmary,138,122,14,7,22,5.7
+3,Royal Victoria Infirmary,454,428,5,3,32,0.7
+3,"Simpson Centre for Reproductive Health, Edinburgh",523,509,19,11,.,2.2
+3,"Simpson Centre for Reproductive Health, Edinburgh",124,117,19,11,22,9.4
+3,"Simpson Centre for Reproductive Health, Edinburgh",399,392,0,0,32,0
+3,Singleton Hospital,328,323,35,15,.,4.6
+3,Singleton Hospital,96,92,32,14,22,15.2
+3,Singleton Hospital,232,231,3,1,32,0.4
+3,Southmead Hospital,484,464,21,6,.,1.3
+3,Southmead Hospital,118,105,17,5,22,4.8
+3,Southmead Hospital,366,359,4,1,32,0.3
+3,St George's Hospital,520,501,2,2,.,0.4
+3,St George's Hospital,153,139,2,2,22,1.4
+3,St George's Hospital,367,362,0,0,32,0
+3,"St Mary's Hospital, Manchester",847,818,48,13,.,1.6
+3,"St Mary's Hospital, Manchester",207,188,31,9,22,4.8
+3,"St Mary's Hospital, Manchester",640,630,17,4,32,0.6
+3,St Michael's Hospital,415,403,26,8,.,2
+3,St Michael's Hospital,124,114,22,6,22,5.3
+3,St Michael's Hospital,291,289,4,2,32,0.7
+3,St Peter's Hospital,387,369,21,8,.,2.2
+3,St Peter's Hospital,100,90,19,8,22,8.9
+3,St Peter's Hospital,287,279,2,0,32,0
+3,Sunderland Royal Hospital,237,232,2,0,.,0
+3,Sunderland Royal Hospital,82,78,2,0,22,0
+3,Sunderland Royal Hospital,155,154,0,0,32,0
+3,The Grange University Hospital,435,427,5,1,.,0.2
+3,The Grange University Hospital,92,84,4,0,22,0
+3,The Grange University Hospital,343,343,1,1,32,0.3
+3,The James Cook University Hospital,359,341,8,1,.,0.3
+3,The James Cook University Hospital,128,112,8,1,22,0.9
+3,The James Cook University Hospital,231,229,0,0,32,0
+3,The Royal London Hospital,514,495,2,2,.,0.4
+3,The Royal London Hospital,161,147,2,2,22,1.4
+3,The Royal London Hospital,353,348,0,0,32,0
+3,University College London Hospital,377,356,15,3,.,0.8
+3,University College London Hospital,80,69,13,3,22,4.3
+3,University College London Hospital,297,287,2,0,32,0
+3,University Hospital Coventry,531,507,17,8,.,1.6
+3,University Hospital Coventry,166,146,16,8,22,5.5
+3,University Hospital Coventry,365,361,1,0,32,0
+3,University Hospital of Wales,311,299,37,15,.,5
+3,University Hospital of Wales,94,83,27,14,22,16.9
+3,University Hospital of Wales,217,216,10,1,32,0.5
+3,"Victoria Hospital, Kirkcaldy",219,214,3,1,.,0.5
+3,"Victoria Hospital, Kirkcaldy",28,26,1,0,22,0
+3,"Victoria Hospital, Kirkcaldy",191,188,2,1,32,0.5
+3,William Harvey Hospital,272,263,10,4,.,1.5
+3,William Harvey Hospital,99,93,8,2,22,2.2
+3,William Harvey Hospital,173,170,2,2,32,1.2
+3,Wishaw General Hospital,523,463,14,4,.,0.9
+3,Wishaw General Hospital,94,69,11,3,22,4.3
+3,Wishaw General Hospital,429,394,3,1,32,0.3
+TOTAL,TOTAL,52970,50456,1403,428,.,0.8
+TOTAL,TOTAL,11704,10434,1116,338,22,3.2
+TOTAL,TOTAL,41266,40022,287,90,32,0.2
